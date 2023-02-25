@@ -10,6 +10,8 @@
 
 ___  
 
-- opmjv
-- 0opmjv
-- opmjv
+Programming skills:
+- HTML
+- CSS
+- JS
+- SQL
