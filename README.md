@@ -17,4 +17,4 @@ Programming skills:
 - SQL  
 ___
 
-![alt text](/C:/ACA/tasks/Task1/task-1.png)
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
