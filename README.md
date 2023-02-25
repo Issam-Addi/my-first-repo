@@ -17,4 +17,4 @@ Programming skills:
 - SQL  
 ___
 
-![My personal picture](/C:\الاكادميه\ملفات عادية/Image20230221125023.png "My personal picture")
+![My personal picture](/C:/ACA/tasks/Task1/task-1.png "My personal picture")
