@@ -16,5 +16,3 @@ Programming skills:
 - JS
 - SQL  
 ___
-
-![My personal picture]( "My personal picture")  
