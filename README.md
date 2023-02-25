@@ -14,5 +14,7 @@ Programming skills:
 - HTML
 - CSS
 - JS
-- SQL
-[The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+- SQL  
+___
+
+![The San Juan Mountains are beautiful!]
