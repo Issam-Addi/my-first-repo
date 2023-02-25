@@ -17,4 +17,4 @@ Programming skills:
 - SQL  
 ___
 
-![My personal picture](/C:/ACA/tasks/Task1/task-1.png "My personal picture")
+![alt text](C:\ACA\tasks\Task1/task-1.png)
