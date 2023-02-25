@@ -17,4 +17,5 @@ Programming skills:
 - SQL  
 ___
 
-![My personal picture](files://C:/ACA/tasks/Task1/task-1.png "My personal picture")
+![My personal picture]( "My personal picture")  
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
