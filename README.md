@@ -18,4 +18,3 @@ Programming skills:
 ___
 
 ![My personal picture]( "My personal picture")  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
