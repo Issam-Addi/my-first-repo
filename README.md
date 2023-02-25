@@ -17,4 +17,4 @@ Programming skills:
 - SQL  
 ___
 
-![My personal picture](https://web.facebook.com/photo?fbid=1061353951462319&set=a.102491887348535 "My personal picture1")
+![My personal picture](https://web.facebook.com/photo?fbid=1061353951462319&set=a.102491887348535)
