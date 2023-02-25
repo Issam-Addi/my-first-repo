@@ -17,4 +17,4 @@ Programming skills:
 - SQL  
 ___
 
-![pic-4-md-file](https://user-images.githubusercontent.com/126164250/221347815-b1ca1c2f-023e-4146-95ac-de6cb54ea325.jpg)
+![pic-4-md-file](https://user-images.githubusercontent.com/126164250/221347815-b1ca1c2f-023e-4146-95ac-de6cb54ea325.jpg "black pic")
