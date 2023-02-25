@@ -17,4 +17,4 @@ Programming skills:
 - SQL  
 ___
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![My personal picture](https://web.facebook.com/photo?fbid=1061353951462319&set=a.102491887348535 "My personal picture")
